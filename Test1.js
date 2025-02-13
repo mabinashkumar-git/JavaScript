@@ -7,7 +7,7 @@ console.log("Hello World")
   let b = 234.6
   console.log(typeof(b))
 
-  var c = "Rahul Shetty"
+  var c = "Abinash Mallick"
   console.log(typeof(c))
 
 

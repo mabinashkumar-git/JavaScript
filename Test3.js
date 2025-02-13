@@ -11,12 +11,12 @@ console.log("marks -:",marks) //[20,40,35,14,37,100]
 console.log("marks.length -:",marks.length) //6
 
 marks.push(65)
-console.log("marks -:",marks) //[20,40,35,14,37,100,65]
+console.log("marks pushed -:",marks) //[20,40,35,14,37,100,65]
 
 marks.pop()//[20,40,35,14,37,100]
 console.log("pop -:", marks)
 
-marks.unshift(12)
+marks.unshift(12)                     //add to beginning of the array
 console.log("unshift -:", marks)
 
 console.log("marks.indexOf(100) -:",marks.indexOf(100))
